@@ -1,0 +1,33 @@
+id,name,destination,cuisine,average_cost,rating,latitude,longitude
+1,Earl's Secret,Ooty,"Continental, European",700,4.5,11.4110,76.6980
+2,Shinkows Chinese Restaurant,Ooty,"Chinese, Asian",450,4.4,11.4080,76.7020
+3,Adayar Ananda Bhavan,Ooty,"South Indian, Vegetarian",250,4.2,11.4060,76.7040
+4,Nahar Sidewalk Cafe,Ooty,"Italian, Wood-fired Pizza",550,4.3,11.4070,76.7010
+5,Fisherman's Wharf,Goa,"Goan, Seafood",900,4.6,15.2280,73.9310
+6,Gunpowder,Goa,"South Indian Coastal, Cocktails",850,4.7,15.5920,73.7660
+7,Infantaria Cafe,Goa,"Bakery, Continental, Breakfast",450,4.3,15.5420,73.7580
+8,Vinayak Family Restaurant,Goa,"Authentic Goan Thali, Fish Curry",350,4.5,15.5900,73.7740
+9,Johnson's Cafe,Manali,"Italian, Trout Fish, Continental",750,4.6,32.2460,77.1840
+10,Cafe 1947,Manali,"Italian, Riverside, Live Music",600,4.5,32.2570,77.1720
+11,The Lazy Dog Lounge,Manali,"Multi-cuisine, Korean, Trout",800,4.4,32.2540,77.1740
+12,Chopsticks Restaurant,Manali,"Tibetan, Thukpa, Momos",350,4.3,32.2390,77.1890
+13,LMB (Laxmi Misthan Bhandar),Jaipur,"Rajasthani Thali, Ghewar",550,4.4,26.9210,75.8260
+14,Handi Restaurant,Jaipur,"North Indian, Mughlai, Lal Maas",750,4.5,26.9160,75.8010
+15,Tapri The Tea House,Jaipur,"Chai, Modern Indian Snacks",350,4.7,26.9030,75.8110
+16,1135 AD Amer,Jaipur,"Royal Rajasthani, Fine Dining",1600,4.8,26.9860,75.8520
+17,Rapsy Restaurant,Munnar,"Kerala Parotta, Biryani, Coffee",250,4.3,10.0880,77.0600
+18,Saravana Bhavan Munnar,Munnar,"South Indian, Filter Coffee",220,4.2,10.0870,77.0590
+19,Guru's Cafe,Munnar,"Healthy, Tibetan, Herbal Teas",350,4.4,10.0860,77.0610
+20,The Fog Multi-Cuisine,Munnar,"Continental, Pan-Indian",650,4.5,10.0240,77.0130
+21,Kashi Chat Bhandar,Varanasi,"Banarasi Chaat, Tamatar Chaat",120,4.7,25.3090,83.0070
+22,Blue Lassi Shop,Varanasi,"Artisanal Fruit Lassi",100,4.6,25.3120,83.0130
+23,Baati Chokha Restaurant,Varanasi,"Traditional Bhojpuri Thali, Litti",300,4.5,25.3350,82.9780
+24,Pizzeria Vatika Cafe,Varanasi,"Wood-fired Pizza, Apple Pie",450,4.4,25.2910,83.0070
+25,Ambrai Restaurant,Udaipur,"North Indian, Waterfront Lake View",1200,4.7,24.5770,73.6790
+26,Tribute Restaurant,Udaipur,"Rajasthani, Curries, Lakeside",850,4.6,24.5930,73.6760
+27,Jheel's Ginger Coffee Bar,Udaipur,"Bakery, Breakfast, Pichola View",350,4.5,24.5800,73.6810
+28,Natraj Dining Hall,Udaipur,"Unlimited Rajasthani & Gujarati Thali",280,4.6,24.5870,73.6970
+29,Peshawri (ITC Mughal),Agra,"North-West Frontier, Dal Bukhara",1800,4.8,27.1620,78.0390
+30,Pinch of Spice,Agra,"North Indian, Mughlai, Chicken Tikka",800,4.5,27.1580,78.0410
+31,Shankara Vegis Restaurant,Agra,"Rooftop Taj View, Indian Thali",350,4.3,27.1670,78.0460
+32,Deviram Sweets & Restaurant,Agra,"Bedmi Puri, Jalebi, Breakfast",150,4.6,27.1720,78.0120

@@ -1,0 +1,33 @@
+id,destination,transport_type,average_cost,distance
+1,Ooty,Local Cab / Taxi,1500,60
+2,Ooty,Auto Rickshaw,600,25
+3,Ooty,Rental Scooter / Bike,500,40
+4,Ooty,Public Bus,150,50
+5,Goa,Rental Scooter,400,60
+6,Goa,Self-Drive Car,1800,90
+7,Goa,Tourist Taxi,2200,80
+8,Goa,Local Bus,100,45
+9,Manali,Local Cab,2000,50
+10,Manali,Rental Royal Enfield,1200,60
+11,Manali,Auto Rickshaw,500,20
+12,Manali,HRTC Public Bus,120,40
+13,Jaipur,Uber / Ola Cab,1200,40
+14,Jaipur,Auto Rickshaw,600,25
+15,Jaipur,E-Rickshaw,300,15
+16,Jaipur,Jaipur City Bus,100,30
+17,Munnar,Jeep Safari / Cab,1800,70
+18,Munnar,Auto Rickshaw,700,30
+19,Munnar,Rental Scooter,600,50
+20,Munnar,KSRTC Bus,120,40
+21,Varanasi,E-Rickshaw,350,20
+22,Varanasi,Cycle Rickshaw,200,10
+23,Varanasi,Boat Ride / Shikara,500,15
+24,Varanasi,Auto Rickshaw,400,25
+25,Udaipur,Uber / Cab,1300,40
+26,Udaipur,Auto Rickshaw,500,25
+27,Udaipur,Lake Ferry / Boat,400,10
+28,Udaipur,Rental Scooter,500,35
+29,Agra,Auto Rickshaw,500,25
+30,Agra,E-Rickshaw,300,15
+31,Agra,Tourist Taxi,1400,45
+32,Agra,City Bus,100,25
